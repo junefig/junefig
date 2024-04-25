@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" alt="Coding" width="300" src="https://github.com/junefig/junefig/assets/149411459/0c0b7db3-fff3-46f3-9d09-b178e29a0f33">
 
-<!--
-**junefig/junefig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 My name is June Figueroa
 
-Here are some ideas to get you started:
+- 🏫 I'm a sophomore at Kean University
+  
+- 🔒 I’m studying IT with a focus in Cybersecurity
+  
+- 📫 Feel free to contact me at figuvict@kean.edu
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
